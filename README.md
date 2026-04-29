@@ -38,7 +38,7 @@ How many symbols? 1
 ✅ Generated password: aB3@cD
 🔒 Password strength: Medium
 💡 Good, but adding more characters (9+) would make it Strong.
-
-1. **Clone** the repository:
+  
+ **Clone** the repository:
    ```bash
    git clone https://github.com/SachinKumar-IT/password-generator.git
